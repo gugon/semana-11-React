@@ -1,0 +1,31 @@
+.home{
+  text-align: center;
+  height: 100hv;
+  margin-top: 10%;
+  
+}
+
+.exercicio1, .exercicio2, 
+.exercicio3, .exercicio4, .exercicio5{
+  margin-top: 5%;
+  margin-left: 5%;  
+
+}
+
+.exercicio2 button{
+  width: 70px;
+  height: 70px;  
+}
+
+.exercicio2 .counter {
+  margin-top: 10px;
+}
+
+
+.exercicio3 .input-form{
+  display: flex;
+}
+
+.exercicio3 .labelTitle{
+  margin-right: 15px;
+}
